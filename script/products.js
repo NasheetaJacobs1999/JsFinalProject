@@ -10,7 +10,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Elsa',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/elsa-princess.jpg",
-            detail: 'Head West and journey through the Great Plains! Relive your favorite Paramount 1883 moments with Pop!. Adventures might lie on the trails ahead. Elsa Dutton will be a resourceful and brave addition to your collection. figure is approximately 4 inches tall.',
+            detail: 'Disney princess Elsa Fun-Co Pop. Figure is approximately 4 inches tall.',
             amount: 250
         },
         {
@@ -18,7 +18,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Rapunzel',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/rapunzel-princess.jpg",
-            detail: 'Disney is hosting the Ultimate Princess Celebration to inspire and empower you and your loved ones with stories of courage and strength. Collect your favorite Disney Princesses as Fun-co Pop! figures and complete your Disney Ultimate Princess collection with Pop! Rapunzel in her beautiful gown for the ball. Vinyl figure is approximately 4.5-inches tall.',
+            detail: 'Disney princess Rapunzel Fun-Co Pop. Figure is approximately 4.5-inches tall.',
             amount: 150
         },
         {
@@ -26,7 +26,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Moana',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/moana-princess.jpg",
-            detail: 'Disney is hosting the Ultimate Princess Celebration to inspire and empower you and your loved ones with stories of courage and strength. Collect your favorite Disney Princesses as Fun-co Pop! figures and complete your Disney Ultimate Princess collection with Pop! Moana taking the shell from the ocean wave with her companion Hei Hei. Vinyl figure is approximately 4.5-inches tall.',
+            detail: 'Disney princess Moana Fun-Co Popo. Figure is approximately 4.5-inches tall.',
             amount: 200
         },
         {
@@ -34,7 +34,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Cinderella',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/cinderella.jpg",
-            detail: 'Pop! Cinderella can’t wait to dance the night away at the ball, and her Fairy Godmother has just the dress for the occasion. Celebrate Disney’s 100th Anniversary with this mid-transformation gown. Swirls of magic shimmer around this graceful princess as she dances her way into your Cinderella collection. Vinyl figure is approximately 4.4-inches tall.',
+            detail: 'Disney princess Cinderella Fun-Co Pop. Figure is approximately 4.4-inches tall.',
             amount: 200
         },
         {
@@ -42,7 +42,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Aurora',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/aurora-princess.jpg",
-            detail: 'Disney is hosting the Ultimate Princess Celebration to inspire and empower you and your loved ones with stories of courage and strength. Collect your favorite Disney Princesses as Fun-co Pop! figures and complete your Disney Ultimate Princess collection with Pop! Aurora with her woodland friends. Vinyl figure is approximately 4.5-inches tall.',
+            detail: 'Disney princess Aurora Fun-Co Pop. Figure is approximately 4.5-inches tall.',
             amount: 180
         },
         {
@@ -50,7 +50,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Jasmine',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/jasmine-princess.jpg",
-            detail: 'Pop! Jasmine would love to join the other princesses in your Disney collection for a regal ball. Collectible stands approximately 3.75-inches tall.',
+            detail: 'Disney princess Jasmine Fun-Co Pop. Figure is approximately 3.75-inches tall.',
             amount: 160
         },
         {
@@ -58,7 +58,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Mulan',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/mulan-princess.jpg",
-            detail: 'Disney is hosting the Ultimate Princess Celebration to inspire and empower you and your loved ones with stories of courage and strength. Collect your favorite Disney Princesses as Fun-co Pop! figures and complete your Disney Ultimate Princess collection with the Fun-co exclusive Pop! Vinyl figure is approximately 5-inches tall.',
+            detail: 'Disney princess Mulan Fun-Co Pop. Figure is approximately 5-inches tall.',
             amount: 180
         },
         {
@@ -66,7 +66,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Snow White',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/snow-white-princess.jpg",
-            detail: 'Pop! Snow White has awoken in a strange place and would appreciate your help finding her way into your Disney collection. Collectible stands approximately 3.75-inches tall.',
+            detail: 'Disney princess Snow White Fun-Co Pop. Figure is approximately 3.75-inches tall.',
             amount: 180
         },
         {
@@ -74,7 +74,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Ariel',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/ariel-princess.jpg",
-            detail: 'From under the sea, its Pop! Ariel looking to join your collection of The Little Mermaid figures. Her sparkly tail is sure to make her stand out. Collectible stands approximately 3.75-inches tall.',
+            detail: 'Disney princess Ariel Fun-Co Pop. Figure is approximately 3.75-inches tall.',
             amount: 180
         },
         {
@@ -82,7 +82,7 @@ let products = localStorage.getItem('products') ?
             name: 'Princess Tiana',
             category: "Figurine",
             image: "https://nasheetajacobs1999.github.io/allimages/images/tiana-princess.jpg",
-            detail: 'Disney is hosting the Ultimate Princess Celebration to inspire and empower you and your loved ones with stories of courage and strength. Collect your favorite Disney Princesses as Fun-co Pop! figures and complete your Disney Ultimate Princess collection with Pop! Tiana holding a frog. Vinyl figure is approximately 5-inches tall.',
+            detail: 'Disney princess Tiana Fun-Co Pop. Figure is approximately 5-inches tall.',
             amount: 160
         }
     ]))
