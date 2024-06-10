@@ -18,6 +18,7 @@
   </head>
   <body>
 
+
     <!-- Navbar -->
     <nav class="navbar navbar-dark bg-dark fixed-top gradient-custom">
         <div class="container-fluid justify-content-between">
@@ -50,21 +51,24 @@
         </nav>
     </nav>
 
-
-<div class="form-container">
-    <div class="form">
-        <span class="heading">Get in touch</span>
-        <input placeholder="Name" type="text" class="input">
-        <input placeholder="Email" id="mail" type="email" class="input">
-        <textarea placeholder="Say Hello" rows="10" cols="30" id="message" name="message" class="textarea"></textarea>
-        <div class="button-container">
-        <div class="send-button">Send</div>
-        <div class="reset-button-container">
-            <div id="reset-btn" class="reset-button">Reset</div>
-        </div>
-    </div>
-</div>
-</div>
+<main id="contact" class="container-fluid">
+    <div class="rowContact">
+      <div class="colContact">
+          <form class="contactForm" action="https://formspree.io/f/maygaowg" target="_blank" method="post">
+            <input type="text" class="input-field" placeholder="Your Name"><br>
+            <input type="email" class="input-field" placeholder="Your Email Address"><br>
+            <textarea type="text" class="input-field-textarea-field" placeholder="Your Message"></textarea><br>
+            <button class="btn btn-secondary m-3" type="submit">Send Message</button>
+          </form>
+      </div>
+      <div class="colContact">    
+        <h2>Keep in Touch With Us:</h2>
+        <p>Conatct number:+27 65 999 4123</p>
+        <p>Email: zubairmoeratofficial@gmail.com</p>
+        <h2 class="text-center">Where to find Us:</h2>
+        <p class="contactContent text-center">Fitness Fusion, 314 Imam Haron Road, Lansdowne, Cape Town, 7780</p>
+      </div>
+  </main>
     
     <footer class="container-fluid">
       <div class="row">

@@ -49,14 +49,28 @@
             </div>
         </nav>
     </nav>
+
     
-    <footer class="container-fluid">
-      <div class="row">
-        <p class="lead">Copyright &copy; 
-          <span currentYear></span></p>
+  </nav>
+  <main id="product" class="container-fluid">
+    <h2>Our Products</h2>
+    <div class="row">
+      <div class="col">
+        <input type="text" placeholder="Search" required class="form-control" data-search-product>  
+        <button class="btn btn-secondary m-1">Sort by Price</button>
+        <a class="btn btn-secondary m-1" href="../html/checkout.html">Cart</a>
       </div>
-    </footer>
-    
+      <div class="row" data-products></div>
+    </div>
+  </main>
+  <footer id="footer" class="container-fluid position-relative">
+      <div class="rowFooter">
+          <p class="lead text-start">Fitness Fusion &copy; <span id="currYear"></span></p>
+      </div>
+  </footer>
+
+  <!-- bootStrapScript -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>    
       <script src="../script/products.js"></script>
   </body>
 </html>
